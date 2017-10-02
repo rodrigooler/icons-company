@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Picasa</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-399.000000, -290.000000)" id="Icon-Set">
+            <g transform="translate(69.000000, 66.000000)">
+                <g id="Picasa" transform="translate(330.000000, 224.000000)">
+                    <circle id="Oval-1-Copy-22" fill="#373737" cx="35" cy="35" r="35"></circle>
+                    <g id="Group-8" transform="translate(17.000000, 18.000000)" fill="#FFFFFF">
+                        <path d="M13,0.752888567 L26.8343333,14.969013 L26.8343333,2.463822 C24.3477778,1.11220405 21.092,0 18.0672222,0 C16.3067222,0 14.5979444,0.256931983 13,0.752888567" id="Fill-41"></path>
+                        <path d="M16.8248889,7.20996816 L10.9627778,1 C4.53716667,3.5833343 0,9.87855716 0,17.234987 C0,18.2958046 0.110833333,19.3219754 0.2905,20.3314067 L16.8248889,7.20996816 Z" id="Fill-43"></path>
+                        <path d="M28,3 L28,25.1541548 L33.7508889,25.1541548 C34.9556667,22.7763661 35.6478889,20.3810593 35.6478889,17.5244428 C35.6478889,11.4853734 32.6569444,6.14780608 28,3" id="Fill-45"></path>
+                        <path d="M9.10055556,32.0469595 L9.10055556,16 L1,21.8167844 C2.15344444,26.00789 5.55427778,29.7372967 9.10055556,32.0469595" id="Fill-47"></path>
+                        <path d="M15.4775,26 L13.6403889,26 L10,26 L10,32.7748292 C12.4185,34.0404139 14.7596111,34.7590449 17.6735556,34.7590449 C23.9027778,34.7590449 29.5338889,30.9101259 32.6356667,26 L26.8338333,26 L15.4775,26 Z" id="Fill-49"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

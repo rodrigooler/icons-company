@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Yahoo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-179.000000, -399.000000)" id="Icon-Set">
+            <g transform="translate(69.000000, 66.000000)">
+                <g id="Yahoo" transform="translate(110.000000, 333.000000)">
+                    <circle id="Oval-1-Copy-30" fill="#400191" cx="35" cy="35" r="35"></circle>
+                    <path d="M43.7651667,17 C42.4709444,19.4474718 37.6973333,27.3668162 34.6593333,32.4381085 C31.5777778,27.2570362 27.9296111,21.2755818 25.5531111,17 C23.6685556,17.4079768 22.8802778,17.4340593 21,17 C24.7321667,22.7089508 30.7125,33.583013 32.7467778,37.1528104 L32.4733889,52.0361795 C32.4733889,52.0361795 33.7858889,51.8131158 34.6632222,51.8131158 C35.6350556,51.8131158 36.8445,52.0361795 36.8445,52.0361795 L36.5715,37.1528104 C40.3674444,30.3912171 46.634,19.3598813 48.3548333,17 C47.5996111,17.5134747 46.4426667,17.776246 45.3782778,18.0203314 L43.7651667,17 Z" id="Fill-69" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

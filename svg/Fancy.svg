@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Fancy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1301.000000, -835.000000)" id="Icon-Set">
+            <g transform="translate(69.000000, 66.000000)">
+                <g id="Fancy" transform="translate(1232.000000, 769.000000)">
+                    <circle id="Oval-1-Copy-59" fill="#358CCB" cx="35" cy="35" r="35"></circle>
+                    <path d="M43.4844237,43.5140187 L37.7383177,43.5140187 L37.7383177,50.2196261 C37.7383177,51.7570093 36.4953271,53 34.957944,53 C33.4205607,53 32.1775701,51.7570093 32.1775701,50.2196261 L32.1775701,43.5140187 L26.4314643,43.5140187 C25.0903427,43.5140187 24,42.423676 24,41.0825545 L24,28.9579439 C24,22.9065421 28.9065421,18 34.957944,18 C41.0093458,18 45.9158879,22.9065421 45.9158879,28.9579439 L45.9158879,41.0716511 C45.9267913,42.423676 44.8364486,43.5140187 43.4844237,43.5140187 L43.4844237,43.5140187 L43.4844237,43.5140187 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

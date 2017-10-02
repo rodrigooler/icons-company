@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Messenger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-729.000000, -726.000000)" id="Icon-Set">
+            <g transform="translate(69.000000, 66.000000)">
+                <g id="Messenger" transform="translate(660.000000, 660.000000)">
+                    <circle id="Oval-1-Copy-58" fill="#0084FF" cx="35" cy="35" r="35"></circle>
+                    <path d="M37.1203704,39.8209877 L32.691358,35.0679012 L24.0493827,39.8209877 L33.5555556,29.6666667 L38.0925926,34.4197531 L46.6265432,29.6666667 L37.1203704,39.8209877 Z M35.3919753,18 C25.7866358,18 18,25.2546142 18,34.2037037 C18,39.3030093 20.5290741,43.8514969 24.4814815,46.8217438 L24.4814815,53 L30.403287,49.7297685 C31.9836883,50.1698611 33.657963,50.4074074 35.3919753,50.4074074 C44.9973148,50.4074074 52.7839506,43.1527932 52.7839506,34.2037037 C52.7839506,25.2546142 44.9973148,18 35.3919753,18 L35.3919753,18 Z" id="Page-1" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
