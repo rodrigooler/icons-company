@@ -4,7 +4,7 @@ const pngFolder = './png/';
 
 fs.readdir(pngFolder, (err, files) => {
   const pngList = files.forEach(file => {
-    const fileName = file;
+    const fileName = file
     return `![${fileName}](./png/${fileName})`;
   });
 

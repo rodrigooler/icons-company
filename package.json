@@ -19,6 +19,7 @@
   "main": "index.js",
   "repository": "git@github.com:rodrigooler/icons-company.git",
   "scripts": {
+    "lint": "eslint ./scripts",
     "test": "jest --coverage --forceExit --runInBand",
     "update:icons": "node scripts/icons.js --exec babel-node"
   }
