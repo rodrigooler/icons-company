@@ -1,11 +1,8 @@
 {
   "name": "company-icons",
-  "version": "0.0.1",
   "description": "96 company icons",
-  "main": "index.js",
-  "repository": "git@github.com:rodrigooler/icons-company.git",
+  "version": "0.0.1",
   "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
@@ -14,5 +11,12 @@
     "husky": "^0.14.3",
     "lint-staged": "^4.2.3",
     "prettier": "^1.7.3"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigooler/icons-company.git",
+  "scripts": {
+    "update:icons": "node scripts/icons.js --exec babel-node",
+    "test": "jest --coverage --forceExit --runInBand"
   }
 }
