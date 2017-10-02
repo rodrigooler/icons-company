@@ -1,10 +1,19 @@
-const fs = require('fs');
+import fs from 'fs'
 
 const pngFolder = './png/';
 
 fs.readdir(pngFolder, (err, files) => {
-  files.forEach(file => {
+  const pngList = files.forEach(file => {
     const fileName = file;
-    console.log(`![${fileName}](./png/${fileName})`);
+    return `![${fileName}](./png/${fileName})`;
   });
+
+  fs.writeFile('ICONS.md', ...pngList, (err) => {
+    if (err) {
+      return console.log(err);
+    }
+
+    console.log('The file was saved!');
+  });
+
 });
